@@ -28,7 +28,7 @@ pipeline que se actualiza con un clic.
 
 ## Capturas
 
-![Dashboard](screenshots/dashboard_v1.png)
+![Dashboard](screenshots/Dashboard.png)
 
 ## Estructura del repositorio
 
